@@ -4,7 +4,6 @@ import random
     _snakeFood.py
     ~~~~~~~~~~
     Håndterer alt med mad at gøre
-    hej
 """
 
 class SnakeFood:
